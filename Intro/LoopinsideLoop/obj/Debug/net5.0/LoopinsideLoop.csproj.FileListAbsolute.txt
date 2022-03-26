@@ -1,0 +1,15 @@
+C:\Users\Carbon\source\repos\Bootcamp\Intro\LoopinsideLoop\bin\Debug\net5.0\LoopinsideLoop.exe
+C:\Users\Carbon\source\repos\Bootcamp\Intro\LoopinsideLoop\bin\Debug\net5.0\LoopinsideLoop.deps.json
+C:\Users\Carbon\source\repos\Bootcamp\Intro\LoopinsideLoop\bin\Debug\net5.0\LoopinsideLoop.runtimeconfig.json
+C:\Users\Carbon\source\repos\Bootcamp\Intro\LoopinsideLoop\bin\Debug\net5.0\LoopinsideLoop.runtimeconfig.dev.json
+C:\Users\Carbon\source\repos\Bootcamp\Intro\LoopinsideLoop\bin\Debug\net5.0\LoopinsideLoop.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\LoopinsideLoop\bin\Debug\net5.0\ref\LoopinsideLoop.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\LoopinsideLoop\bin\Debug\net5.0\LoopinsideLoop.pdb
+C:\Users\Carbon\source\repos\Bootcamp\Intro\LoopinsideLoop\obj\Debug\net5.0\LoopinsideLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carbon\source\repos\Bootcamp\Intro\LoopinsideLoop\obj\Debug\net5.0\LoopinsideLoop.AssemblyInfoInputs.cache
+C:\Users\Carbon\source\repos\Bootcamp\Intro\LoopinsideLoop\obj\Debug\net5.0\LoopinsideLoop.AssemblyInfo.cs
+C:\Users\Carbon\source\repos\Bootcamp\Intro\LoopinsideLoop\obj\Debug\net5.0\LoopinsideLoop.csproj.CoreCompileInputs.cache
+C:\Users\Carbon\source\repos\Bootcamp\Intro\LoopinsideLoop\obj\Debug\net5.0\LoopinsideLoop.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\LoopinsideLoop\obj\Debug\net5.0\ref\LoopinsideLoop.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\LoopinsideLoop\obj\Debug\net5.0\LoopinsideLoop.pdb
+C:\Users\Carbon\source\repos\Bootcamp\Intro\LoopinsideLoop\obj\Debug\net5.0\LoopinsideLoop.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Carbon\source\repos\Bootcamp\Intro\Loops\bin\Debug\net5.0\Loops.exe
+C:\Users\Carbon\source\repos\Bootcamp\Intro\Loops\bin\Debug\net5.0\Loops.deps.json
+C:\Users\Carbon\source\repos\Bootcamp\Intro\Loops\bin\Debug\net5.0\Loops.runtimeconfig.json
+C:\Users\Carbon\source\repos\Bootcamp\Intro\Loops\bin\Debug\net5.0\Loops.runtimeconfig.dev.json
+C:\Users\Carbon\source\repos\Bootcamp\Intro\Loops\bin\Debug\net5.0\Loops.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\Loops\bin\Debug\net5.0\ref\Loops.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\Loops\bin\Debug\net5.0\Loops.pdb
+C:\Users\Carbon\source\repos\Bootcamp\Intro\Loops\obj\Debug\net5.0\Loops.csproj.AssemblyReference.cache
+C:\Users\Carbon\source\repos\Bootcamp\Intro\Loops\obj\Debug\net5.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carbon\source\repos\Bootcamp\Intro\Loops\obj\Debug\net5.0\Loops.AssemblyInfoInputs.cache
+C:\Users\Carbon\source\repos\Bootcamp\Intro\Loops\obj\Debug\net5.0\Loops.AssemblyInfo.cs
+C:\Users\Carbon\source\repos\Bootcamp\Intro\Loops\obj\Debug\net5.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\Carbon\source\repos\Bootcamp\Intro\Loops\obj\Debug\net5.0\Loops.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\Loops\obj\Debug\net5.0\ref\Loops.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\Loops\obj\Debug\net5.0\Loops.pdb
+C:\Users\Carbon\source\repos\Bootcamp\Intro\Loops\obj\Debug\net5.0\Loops.genruntimeconfig.cache

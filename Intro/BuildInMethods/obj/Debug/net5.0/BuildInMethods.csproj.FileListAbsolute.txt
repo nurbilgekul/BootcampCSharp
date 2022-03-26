@@ -1,0 +1,16 @@
+C:\Users\Carbon\source\repos\Bootcamp\Intro\BuildInMethods\bin\Debug\net5.0\BuildInMethods.exe
+C:\Users\Carbon\source\repos\Bootcamp\Intro\BuildInMethods\bin\Debug\net5.0\BuildInMethods.deps.json
+C:\Users\Carbon\source\repos\Bootcamp\Intro\BuildInMethods\bin\Debug\net5.0\BuildInMethods.runtimeconfig.json
+C:\Users\Carbon\source\repos\Bootcamp\Intro\BuildInMethods\bin\Debug\net5.0\BuildInMethods.runtimeconfig.dev.json
+C:\Users\Carbon\source\repos\Bootcamp\Intro\BuildInMethods\bin\Debug\net5.0\BuildInMethods.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\BuildInMethods\bin\Debug\net5.0\ref\BuildInMethods.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\BuildInMethods\bin\Debug\net5.0\BuildInMethods.pdb
+C:\Users\Carbon\source\repos\Bootcamp\Intro\BuildInMethods\obj\Debug\net5.0\BuildInMethods.csproj.AssemblyReference.cache
+C:\Users\Carbon\source\repos\Bootcamp\Intro\BuildInMethods\obj\Debug\net5.0\BuildInMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carbon\source\repos\Bootcamp\Intro\BuildInMethods\obj\Debug\net5.0\BuildInMethods.AssemblyInfoInputs.cache
+C:\Users\Carbon\source\repos\Bootcamp\Intro\BuildInMethods\obj\Debug\net5.0\BuildInMethods.AssemblyInfo.cs
+C:\Users\Carbon\source\repos\Bootcamp\Intro\BuildInMethods\obj\Debug\net5.0\BuildInMethods.csproj.CoreCompileInputs.cache
+C:\Users\Carbon\source\repos\Bootcamp\Intro\BuildInMethods\obj\Debug\net5.0\BuildInMethods.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\BuildInMethods\obj\Debug\net5.0\ref\BuildInMethods.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\BuildInMethods\obj\Debug\net5.0\BuildInMethods.pdb
+C:\Users\Carbon\source\repos\Bootcamp\Intro\BuildInMethods\obj\Debug\net5.0\BuildInMethods.genruntimeconfig.cache

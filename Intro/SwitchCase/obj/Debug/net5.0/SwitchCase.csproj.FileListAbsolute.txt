@@ -1,0 +1,15 @@
+C:\Users\Carbon\source\repos\Bootcamp\Intro\SwitchCase\bin\Debug\net5.0\SwitchCase.exe
+C:\Users\Carbon\source\repos\Bootcamp\Intro\SwitchCase\bin\Debug\net5.0\SwitchCase.deps.json
+C:\Users\Carbon\source\repos\Bootcamp\Intro\SwitchCase\bin\Debug\net5.0\SwitchCase.runtimeconfig.json
+C:\Users\Carbon\source\repos\Bootcamp\Intro\SwitchCase\bin\Debug\net5.0\SwitchCase.runtimeconfig.dev.json
+C:\Users\Carbon\source\repos\Bootcamp\Intro\SwitchCase\bin\Debug\net5.0\SwitchCase.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\SwitchCase\bin\Debug\net5.0\ref\SwitchCase.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\SwitchCase\bin\Debug\net5.0\SwitchCase.pdb
+C:\Users\Carbon\source\repos\Bootcamp\Intro\SwitchCase\obj\Debug\net5.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carbon\source\repos\Bootcamp\Intro\SwitchCase\obj\Debug\net5.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\Carbon\source\repos\Bootcamp\Intro\SwitchCase\obj\Debug\net5.0\SwitchCase.AssemblyInfo.cs
+C:\Users\Carbon\source\repos\Bootcamp\Intro\SwitchCase\obj\Debug\net5.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Carbon\source\repos\Bootcamp\Intro\SwitchCase\obj\Debug\net5.0\SwitchCase.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\SwitchCase\obj\Debug\net5.0\ref\SwitchCase.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\SwitchCase\obj\Debug\net5.0\SwitchCase.pdb
+C:\Users\Carbon\source\repos\Bootcamp\Intro\SwitchCase\obj\Debug\net5.0\SwitchCase.genruntimeconfig.cache

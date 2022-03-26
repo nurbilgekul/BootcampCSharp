@@ -1,0 +1,16 @@
+C:\Users\Carbon\source\repos\Bootcamp\Practices\Week1\bin\Debug\net5.0\Week1.exe
+C:\Users\Carbon\source\repos\Bootcamp\Practices\Week1\bin\Debug\net5.0\Week1.deps.json
+C:\Users\Carbon\source\repos\Bootcamp\Practices\Week1\bin\Debug\net5.0\Week1.runtimeconfig.json
+C:\Users\Carbon\source\repos\Bootcamp\Practices\Week1\bin\Debug\net5.0\Week1.runtimeconfig.dev.json
+C:\Users\Carbon\source\repos\Bootcamp\Practices\Week1\bin\Debug\net5.0\Week1.dll
+C:\Users\Carbon\source\repos\Bootcamp\Practices\Week1\bin\Debug\net5.0\ref\Week1.dll
+C:\Users\Carbon\source\repos\Bootcamp\Practices\Week1\bin\Debug\net5.0\Week1.pdb
+C:\Users\Carbon\source\repos\Bootcamp\Practices\Week1\obj\Debug\net5.0\Week1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carbon\source\repos\Bootcamp\Practices\Week1\obj\Debug\net5.0\Week1.AssemblyInfoInputs.cache
+C:\Users\Carbon\source\repos\Bootcamp\Practices\Week1\obj\Debug\net5.0\Week1.AssemblyInfo.cs
+C:\Users\Carbon\source\repos\Bootcamp\Practices\Week1\obj\Debug\net5.0\Week1.csproj.CoreCompileInputs.cache
+C:\Users\Carbon\source\repos\Bootcamp\Practices\Week1\obj\Debug\net5.0\Week1.dll
+C:\Users\Carbon\source\repos\Bootcamp\Practices\Week1\obj\Debug\net5.0\ref\Week1.dll
+C:\Users\Carbon\source\repos\Bootcamp\Practices\Week1\obj\Debug\net5.0\Week1.pdb
+C:\Users\Carbon\source\repos\Bootcamp\Practices\Week1\obj\Debug\net5.0\Week1.genruntimeconfig.cache
+C:\Users\Carbon\source\repos\Bootcamp\Practices\Week1\obj\Debug\net5.0\Week1.csproj.AssemblyReference.cache

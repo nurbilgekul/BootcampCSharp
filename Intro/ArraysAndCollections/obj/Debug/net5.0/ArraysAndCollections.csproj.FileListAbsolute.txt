@@ -1,0 +1,16 @@
+C:\Users\Carbon\source\repos\Bootcamp\Intro\ArraysAndCollections\bin\Debug\net5.0\ArraysAndCollections.exe
+C:\Users\Carbon\source\repos\Bootcamp\Intro\ArraysAndCollections\bin\Debug\net5.0\ArraysAndCollections.deps.json
+C:\Users\Carbon\source\repos\Bootcamp\Intro\ArraysAndCollections\bin\Debug\net5.0\ArraysAndCollections.runtimeconfig.json
+C:\Users\Carbon\source\repos\Bootcamp\Intro\ArraysAndCollections\bin\Debug\net5.0\ArraysAndCollections.runtimeconfig.dev.json
+C:\Users\Carbon\source\repos\Bootcamp\Intro\ArraysAndCollections\bin\Debug\net5.0\ArraysAndCollections.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\ArraysAndCollections\bin\Debug\net5.0\ref\ArraysAndCollections.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\ArraysAndCollections\bin\Debug\net5.0\ArraysAndCollections.pdb
+C:\Users\Carbon\source\repos\Bootcamp\Intro\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carbon\source\repos\Bootcamp\Intro\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.AssemblyInfoInputs.cache
+C:\Users\Carbon\source\repos\Bootcamp\Intro\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.AssemblyInfo.cs
+C:\Users\Carbon\source\repos\Bootcamp\Intro\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.csproj.CoreCompileInputs.cache
+C:\Users\Carbon\source\repos\Bootcamp\Intro\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\ArraysAndCollections\obj\Debug\net5.0\ref\ArraysAndCollections.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.pdb
+C:\Users\Carbon\source\repos\Bootcamp\Intro\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.genruntimeconfig.cache
+C:\Users\Carbon\source\repos\Bootcamp\Intro\ArraysAndCollections\obj\Debug\net5.0\ArraysAndCollections.csproj.AssemblyReference.cache

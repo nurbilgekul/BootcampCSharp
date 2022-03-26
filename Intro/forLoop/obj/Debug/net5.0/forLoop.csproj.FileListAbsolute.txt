@@ -1,0 +1,16 @@
+C:\Users\Carbon\source\repos\Bootcamp\Intro\forLoop\bin\Debug\net5.0\forLoop.exe
+C:\Users\Carbon\source\repos\Bootcamp\Intro\forLoop\bin\Debug\net5.0\forLoop.deps.json
+C:\Users\Carbon\source\repos\Bootcamp\Intro\forLoop\bin\Debug\net5.0\forLoop.runtimeconfig.json
+C:\Users\Carbon\source\repos\Bootcamp\Intro\forLoop\bin\Debug\net5.0\forLoop.runtimeconfig.dev.json
+C:\Users\Carbon\source\repos\Bootcamp\Intro\forLoop\bin\Debug\net5.0\forLoop.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\forLoop\bin\Debug\net5.0\ref\forLoop.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\forLoop\bin\Debug\net5.0\forLoop.pdb
+C:\Users\Carbon\source\repos\Bootcamp\Intro\forLoop\obj\Debug\net5.0\forLoop.csproj.AssemblyReference.cache
+C:\Users\Carbon\source\repos\Bootcamp\Intro\forLoop\obj\Debug\net5.0\forLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carbon\source\repos\Bootcamp\Intro\forLoop\obj\Debug\net5.0\forLoop.AssemblyInfoInputs.cache
+C:\Users\Carbon\source\repos\Bootcamp\Intro\forLoop\obj\Debug\net5.0\forLoop.AssemblyInfo.cs
+C:\Users\Carbon\source\repos\Bootcamp\Intro\forLoop\obj\Debug\net5.0\forLoop.csproj.CoreCompileInputs.cache
+C:\Users\Carbon\source\repos\Bootcamp\Intro\forLoop\obj\Debug\net5.0\forLoop.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\forLoop\obj\Debug\net5.0\ref\forLoop.dll
+C:\Users\Carbon\source\repos\Bootcamp\Intro\forLoop\obj\Debug\net5.0\forLoop.pdb
+C:\Users\Carbon\source\repos\Bootcamp\Intro\forLoop\obj\Debug\net5.0\forLoop.genruntimeconfig.cache

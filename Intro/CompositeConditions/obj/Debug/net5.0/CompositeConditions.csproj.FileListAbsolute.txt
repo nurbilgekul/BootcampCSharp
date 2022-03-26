@@ -1,0 +1,16 @@
+C:\Users\Carbon\source\repos\Bootcamp\CompositeConditions\bin\Debug\net5.0\CompositeConditions.exe
+C:\Users\Carbon\source\repos\Bootcamp\CompositeConditions\bin\Debug\net5.0\CompositeConditions.deps.json
+C:\Users\Carbon\source\repos\Bootcamp\CompositeConditions\bin\Debug\net5.0\CompositeConditions.runtimeconfig.json
+C:\Users\Carbon\source\repos\Bootcamp\CompositeConditions\bin\Debug\net5.0\CompositeConditions.runtimeconfig.dev.json
+C:\Users\Carbon\source\repos\Bootcamp\CompositeConditions\bin\Debug\net5.0\CompositeConditions.dll
+C:\Users\Carbon\source\repos\Bootcamp\CompositeConditions\bin\Debug\net5.0\ref\CompositeConditions.dll
+C:\Users\Carbon\source\repos\Bootcamp\CompositeConditions\bin\Debug\net5.0\CompositeConditions.pdb
+C:\Users\Carbon\source\repos\Bootcamp\CompositeConditions\obj\Debug\net5.0\CompositeConditions.csproj.AssemblyReference.cache
+C:\Users\Carbon\source\repos\Bootcamp\CompositeConditions\obj\Debug\net5.0\CompositeConditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carbon\source\repos\Bootcamp\CompositeConditions\obj\Debug\net5.0\CompositeConditions.AssemblyInfoInputs.cache
+C:\Users\Carbon\source\repos\Bootcamp\CompositeConditions\obj\Debug\net5.0\CompositeConditions.AssemblyInfo.cs
+C:\Users\Carbon\source\repos\Bootcamp\CompositeConditions\obj\Debug\net5.0\CompositeConditions.csproj.CoreCompileInputs.cache
+C:\Users\Carbon\source\repos\Bootcamp\CompositeConditions\obj\Debug\net5.0\CompositeConditions.dll
+C:\Users\Carbon\source\repos\Bootcamp\CompositeConditions\obj\Debug\net5.0\ref\CompositeConditions.dll
+C:\Users\Carbon\source\repos\Bootcamp\CompositeConditions\obj\Debug\net5.0\CompositeConditions.pdb
+C:\Users\Carbon\source\repos\Bootcamp\CompositeConditions\obj\Debug\net5.0\CompositeConditions.genruntimeconfig.cache
